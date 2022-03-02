@@ -1,5 +1,6 @@
 # STM32-Embedded-Application
 Course project done in 2020 as part of an exam at Automation Engineering at University of Bologna.
+Team members: Lorenzo Balandi, Simone Cenerini, Lorenzo Nanni, Federico Soffritti (fede98unibo).
 Part of the result can be seen here: https://www.youtube.com/watch?v=hZB90Q9oz1U
 
 The Code follows the instructions:
